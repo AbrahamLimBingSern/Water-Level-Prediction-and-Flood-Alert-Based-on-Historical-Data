@@ -1,6 +1,6 @@
 # Water Level Prediction and Flood Alert Based on Historical Data
 
-According to the World Health Organisation (WHO), the most common kind of natural 
+<p style="text-align: justify">According to the World Health Organisation (WHO), the most common kind of natural 
 disaster is floods, which happen when a water overflow submerges a normally dry area. Heavy 
 rains, quick snowmelt, storm surges from tropical cyclones, or tsunamis in coastal locations 
 are frequently the cause of floods. Normally, there are three main categories of floods which 
@@ -15,4 +15,4 @@ floods as a serious threat to the residents, houses and other structures. Accord
 the number of evacuees increasing in all three states. Therefore, our goal is to predict whether 
 a flood is likely to occur, which helps to lessen the potential damage caused by floods. By 
 doing so, this prediction will provide residents and property owners with valuable information 
-to take preventive measures and protect their homes.
+to take preventive measures and protect their homes.</p>
