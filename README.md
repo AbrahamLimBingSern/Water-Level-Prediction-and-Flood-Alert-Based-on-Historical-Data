@@ -1,6 +1,6 @@
 # Water Level Prediction and Flood Alert Based on Historical Data
 
-<p style="text-align: justify">According to the World Health Organisation (WHO), the most common kind of natural 
+<p style="text-align: justify;">According to the World Health Organisation (WHO), the most common kind of natural 
 disaster is floods, which happen when a water overflow submerges a normally dry area. Heavy 
 rains, quick snowmelt, storm surges from tropical cyclones, or tsunamis in coastal locations 
 are frequently the cause of floods. Normally, there are three main categories of floods which 
